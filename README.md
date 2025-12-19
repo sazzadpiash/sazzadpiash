@@ -67,7 +67,7 @@ I offer my services on **Fiverr** to Muggles and Wizards alike:
   <img src="magic_divider.png" alt="Magic Divider" width="60%" />
 </div>
 
-## 📈 Wizarding Stats
+## 📈 Wizarding Stats 📈
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sazzadpiash&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7B944&icon_color=F7B944" alt="Stats" />
@@ -81,3 +81,4 @@ I offer my services on **Fiverr** to Muggles and Wizards alike:
   <br/>
   <p><i>"Mischief Managed."</i></p>
 </div>
+
