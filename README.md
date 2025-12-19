@@ -1,77 +1,83 @@
-# Hello there! 👋🏻 I am Sazzad Hossain! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
+<div align="center">
+  <img src="header_wizard.png" alt="Wizard Coding" width="100%" />
+</div>
 
-I am Sazzad Hossain 🙋🏻‍♂️, a Cat Lover, Self-taught Full Stack Developer and Web Designer.
-I am looking to collaborate with others on Reactjs.
-I am learning and contributing more to Open Source projects.
-I am currently working on the React Project.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=30&duration=3000&pause=1000&color=F7B944&center=true&vCenter=true&width=600&lines=I+solemnly+swear+that+I+am+coding+up+to+no+good...;Full+Stack+Web+Wizard;Mischief+Managed+in+Production" alt="Typing SVG" />
+</div>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-<br/>
+<div align="center">
+  <img src="magic_divider.png" alt="Magic Divider" width="60%" />
+</div>
 
-- 🔭 I’m currently working in <a href="http://sedgefunding.co.uk" target="blank">Sedge Funding</a> 
-
-- 🌱 I’m currently Working as a Full Stack Developer 
-
-- 🤝 I’m available for Freelance Work.
-
-- 🌱 I’m currently learning Next.js and Typescript
-
-- 📫 How to reach me **developer.sazzadpiash@gmail.com**
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
+<h1 align="center">🧙‍♂️ Hello, I'm Sazzad Hossain 🧙‍♂️</h1>
+<h3 align="center">The Full-Stack Wizard from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sazzad-piash/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/sazzadpiash">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/sazzad_piash/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCVeggXTlytoGAUUfWtqYWag?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="#">
-					<img src="https://img.icons8.com/plasticine/40/000000/resume.png" ></a>
-      </div>
-
+  <a href="https://github.com/sazzadpiash">
+    <img src="https://img.shields.io/badge/House-Ravenclaw-blue?style=for-the-badge&logo=hugo" alt="House Ravenclaw" />
+  </a>
+  <a href="https://github.com/sazzadpiash">
+    <img src="https://img.shields.io/badge/Level-2%20Seller-green?style=for-the-badge&logo=fiverr" alt="Fiverr Level 2" />
+  </a>
+    <a href="https://github.com/sazzadpiash">
+    <img src="https://img.shields.io/badge/XP-2%2B%20Years-gold?style=for-the-badge" alt="Experience" />
+  </a>
 </p>
 
+---
 
-![Dino](https://raw.githubusercontent.com/arjunMee/arjunMee/master/dino.gif?token=AQWYXGQBQLHFPDHPO7E2UOLAUYRTI)
+## 📜 about_me.md
 
+> *"It does not do to dwell on dreams and forget to live, but it does do to dream of better code."*
 
-<!-- ### Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- - [Download Instagram profile picture  using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j) -->
-<!-- - [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1) -->
-<!-- - [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8) -->
-<!-- BLOG-POST-LIST:END -->
+I am a **Full-Stack Web Developer** specializing in building modern, scalable web applications. Like a wizard mastering spells, I craft clean code and functional solutions for businesses and individual clients. My wand (keyboard) weaves magic with **React, Node.js, and MongoDB**.
 
-<!--- ## Connect with Me 🤝🏻 --->
+- 🔭 I’m currently working on **Advanced MERN Stack Applications**
+- 🌱 I’m currently learning **Next.js & Advanced System Design**
+- ⚡ Fun fact: **I can center a div without using `display: flex` (sometimes)**
 
-<!--- [![Website](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/ws.svg?token=AQWYXGRHCRNYN3ZD5UX7RGLAUYRZY)]() [![LinkedIn](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/li.svg?token=AQWYXGRESHQDYV3VM6GGCPDAUYRX2)]() [![GitHub](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/gh.svg?token=AQWYXGVYBAQSQ4BB4FWPB73AUYRWG)](https://github.com/arjunMee) [![Facebook](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/fb.svg?token=AQWYXGXXXHCQPW6TB5K662DAUYRU4)](https://www.facebook.com/arjun.bu12/) [![Instagram](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/ig.svg?token=AQWYXGSRZV6J3H2AIKD4Z2DAUYRXA)](https://www.instagram.com/arjun.meena12/) [![WhatsApp](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/wa.svg?token=AQWYXGUNIDZSRF74LZPBPTTAUYRYW)]() --->
+<div align="center">
+  <img src="magic_divider.png" alt="Magic Divider" width="60%" />
+</div>
 
+## 🧪 Potions & Spells (Tech Stack)
 
+| **Class** | **Spells** |
+|:---:|:---|
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) |
+| **Backend** | ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 
-<!--- ![Arjun GitHub Statistics](https://github-readme-stats.vercel.app/api?username=arjunMee&show_icons=true) --->
+<div align="center">
+  <img src="magic_divider.png" alt="Magic Divider" width="60%" />
+</div>
 
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunMee) -->
+## 🔮 Magical Services
 
-<!--- ![Arjun GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjunMee) --->
+I offer my services on **Fiverr** to Muggles and Wizards alike:
+- 🌐 **Custom Web Applications**
+- 🛠️ **MERN Stack Development**
+- 📊 **Admin Dashboards & CRM**
+- 🐞 **Bug Fixing & Optimization**
 
-<!--- ![Jokes Card](https://readme-jokes.vercel.app/api) --->
+[**Hire Me on Fiverr**](https://www.fiverr.com/sazzadpiash)
 
+<div align="center">
+  <img src="magic_divider.png" alt="Magic Divider" width="60%" />
+</div>
 
+## 📈 Wizarding Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sazzadpiash&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7B944&icon_color=F7B944" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sazzadpiash&theme=radical&hide_border=true&background=0D1117&ring=F7B944&fire=F7B944&currStreakLabel=F7B944" alt="Streak" />
+</div>
 
+<br/>
 
-![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png)
-
-![](https://visitor-badge.glitch.me/badge?page_id=afc163.afc163)
+<div align="center">
+  <img src="hogwarts_footer.png" alt="Hogwarts Castle" width="100%" />
+  <br/>
+  <p><i>"Mischief Managed."</i></p>
+</div>
